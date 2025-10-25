@@ -1,8 +1,8 @@
 
 
-# Bienvenue sur le GitHub de BahMamba 🐍
+# Bienvenue sur le GitHub de bah-mamba
 
-👋 Salut, moi c’est Bah Ibrahima, **BahMamba**  
+👋 Salut, moi c’est Bah Ibrahima, **mamba**  
 (Mamba, comme le serpent noir : rapide, précis, élégant... avec la même mentalité et le même charisme.)
 
 🧠 Ingénieur en **Génie Logiciel**, passionné par la tech, le clean code et l’impact réel du logiciel dans le monde moderne.  
